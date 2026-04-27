@@ -1,0 +1,226 @@
+Bezeichnung
+A01: Auftragsanalyse und Wahl einer Projektmethode
+Leitfrage
+Wie erfolgt die Auftragsanalyse? Welche Projektmethode kommt zum Einsatz?
+Gütestufe 3
+1. Der Projektauftrag wurde analysiert und die Erkenntnisse mittels geeigneter Darstellungsmethoden (z. B. Zielstruktur, Use-Case- oder Kontextdiagramm, Anforderungstabelle) schriftlich dokumentiert.
+2. Dokumentation aus Punkt 1 liefert die Grundlage, um die Projektziele konsequent zu verfolgen.
+3. Eine zur Aufgabe passende Projektmethode wurde ausgewählt.
+4. Die Wahl der Projektmethode ist nachvollziehbar und schriftlich begründet.
+
+Bezeichnung
+A02: Informations-Recherche
+Leitfrage
+Wie werden Informationen recherchiert?
+Gütestufe 3
+1. Fehlende und für die IPA relevante Informationen wurden identifiziert und systematisch recherchiert.
+2. Es wurde darauf verzichtet, allgemein bekannte Sachverhalte ausführlich wiederzugeben.
+3. Alle verwendeten Informationen, einschliesslich solcher, die auf den Einsatz von künstlicher Intelligenz oder ähnlichen Technologien zurückzuführen sind, und die nicht auf eigener Leistung beruhen, sind entsprechend deklariert.
+4. Die recherchierten Informationen sind verlässlich, aktuell und gültig.
+
+Bezeichnung
+A03: Informations-Aufbereitung und -Verwendung
+Leitfrage
+Wie werden Informationen effektiv aufbereitet und verwendet?
+Gütestufe 3
+1. Die verwendeten Informationen finden in einer klaren und übersichtlichen Dokumentation Niederschlag.
+2. Es werden geeignete Visualisierungsmethoden wie Grafiken, Diagramme oder Tabellen eingesetzt.
+3. Die bereitgestellten Informationen erlauben es einer Fachperson, ein umfassendes Verständnis der IPA (Dokumentation, Lösung) anzueignen.
+4. Alle verwendeten Informationen stehen im Auftragskontext und finden im Projekt sinnvolle Anwendung.
+
+Bezeichnung
+A04: Zeitplan
+Leitfrage
+Was sind die Anforderungen an den Zeitplan?
+Gütestufe 3
+1. Der Zeitplan ist Bestandteil von Teil 1 des IPA-Berichts.
+2. Der Zeitplan ist übersichtlich gestaltet.
+3. Struktur und Elemente des Zeitplans orientieren sich nach der gewählten Projektmethode.
+4. Es wurde eine Zeitachse definiert (Datum), die Zeitachse weist eine vernünftige Granularität auf (bspw. Stundenblöcke).
+5. Die identifizierten Aktivitäten sind zweckmässig und folgen einer sinnvollen Logik.
+6. Die IPA-Zeitvorgabe ist im Zeitplan korrekt berücksichtigt.
+
+Bezeichnung
+A05: Überprüfung und Dokumentation der Fortschritte und Risiken
+Leitfrage
+Wie erfolgt die Überprüfung und Dokumentation des Projektfortschritts und der Risiken?
+Gütestufe 3
+1. Der Fortschritt wurde regelmässig überprüft, verständlich und korrekt dokumentiert.
+2. Es gibt eine genaue Gegenüberstellung des geplanten und tatsächlichen Zeitplans (Soll-/Ist-Vergleich).
+3. Es erfolgte eine periodische Risiko- und Problemüberprüfung. Bei einem allfälligen Eintreten eines Risikos oder Problems wurde professionell darauf reagiert. Es besteht hierzu ein schriftlicher Nachweis.
+4. Nicht erreichte Ziele wie auch Korrekturmassnahmen und Nacharbeiten zur IPA sind beschrieben. Falls solche Aspekte nicht existieren, ist dies entsprechend begründet.
+
+Bezeichnung
+A06: Leistungsfähigkeit
+Leitfrage
+Wie ist die Leistung einzustufen?
+Gütestufe 3
+1. Die Projektziele wurden konsequent verfolgt, Prioritäten wurden erkannt und das Vorgehen darauf abgestimmt.
+2. Die Aufgaben wurden effizient und ergebnisorientiert bearbeitet und entsprechen hinsichtlich Arbeitsleistung den Standards einer Informatik-Fachperson.
+3. Ergebnisse und Arbeitsweise sind fachlich korrekt, praxisgerecht und entsprechen hinsichtlich Qualität und Professionalität den Standards einer Informatik-Fachperson.
+
+Bezeichnung
+A07: Selbständiges Arbeiten
+Leitfrage
+Wie selbständig wurde gearbeitet?
+Gütestufe 3
+1. Ziele und Aufgaben wurden eigenständig verfolgt.
+2. Eine ausgeprägte Fähigkeit zur Problemlösung wurde demonstriert; Hindernisse wurden eigenständig überwunden und/oder fremde Hilfe wurde angemessen in Anspruch genommen.
+3. Die Fähigkeit zur Selbstmotivation wurde gezeigt, das Engagement war hoch.
+4. Die Fähigkeit zur Selbstreflexion wurde gezeigt.
+
+Bezeichnung
+A08: Anwendung der Fachsprache
+Leitfrage
+Wie ist die Anwendung der Fachsprache zu beurteilen?
+Gütestufe 3
+1. Das relevante Fachvokabular ist bekannt und wird konsistent und fachgerecht angewendet.
+2. Fachinhalte wurden präzise formuliert und korrekt wiedergegeben.
+3. Die Sprache ist durchgängig logisch strukturiert und ermöglicht dem Zielpublikum (externe Fachperson) ein klares Verständnis.
+
+Bezeichnung
+A09: Anwendung der Fachkompetenz
+Leitfrage
+Wie ist die Anwendung der Fachkompetenz zu beurteilen?
+Gütestufe 3
+1. Das theoretische Wissen ist vorhanden und konnte in praktischen Situationen erfolgreich angewandt werden. Bei offensichtlichem Mangel an theoretischem Wissen wird dieser Punkt nicht gesprochen.
+2. Informationen und Sachverhalte wurden kritisch analysiert, um fundierte Schlussfolgerungen zu ziehen.
+3. Der Anspruch der Transferleistung ist erfüllt, da Fähigkeiten und Kenntnisse auf unerwartete oder neuartige Aufgabenstellungen angewandt wurden.
+4. Methoden und Werkzeuge wurden passend zur gewählten Projektmethode ausgewählt und wirkungsvoll eingesetzt.
+
+Bezeichnung
+A10: Interaktion im Projektteam
+Leitfrage
+Wie ist die Interaktion mit anderen Projektmitgliedern zu beurteilen?
+Gütestufe 3
+1. Relevante Informationen von Auftraggebern, Experten oder anderen Projektmitgliedern wurden sorgfältig aufgenommen und korrekt dokumentiert.
+2. Rückmeldungen oder Vorgaben wurden nachvollziehbar umgesetzt und im Projektbericht nachgewiesen.
+3. Die Kommunikation mit Projektbeteiligten erfolgte effizient und nachvollziehbar, z. B. über Projektmanagement- oder Kollaborationstools
+
+Bezeichnung
+A11: Abbildung der Projektaufbauorganisation
+Leitfrage
+Welche Informationen zur Projektaufbauorganisation sind verlangt?
+Gütestufe 3
+1. Die zur gewählten Projektmethode relevanten Rollen wurden identifiziert.
+2. Die Rollen wurden korrekt und verständlich beschrieben.
+3. Die Projektaufbauorganisation ist grafisch dargestellt (z. B. als Organigramm), vollständig und die Abhängigkeiten zwischen den Rollen sind korrekt dargestellt.
+4. Der schriftliche Nachweis dieser drei Punkte ist Bestandteil von Teil 1 des IPA-Berichts.
+
+Bezeichnung
+A12: Testdurchführung und Dokumentation
+Leitfrage
+Wie wurde die Testdurchführung organisiert und dokumentiert?
+Gütestufe 3
+Hinweis: Es gibt allgemeine Anforderungen sowie ergänzende für ein lineares bzw. agiles Vorgehen. Die vorgesetzte Fachkraft und die Experten bestimmen und deklarieren basierend auf der Wahl der Projektmethode, welche Vorgehensart geprüft wird.
+
+Gemeinsame Anforderungen:
+1. Es wurde eine Beschreibung der Testinfrastruktur und des Umfelds bereitgestellt, sodass eine externe Fachperson die Tests mit gleichen Ergebnissen reproduzieren kann.
+2. Verbesserungspotential wie auch Nacharbeiten wurden identifiziert. Falls weder Verbesserungspotential besteht noch Nacharbeit nötig ist, ist dies nachvollziehbar begründet.
+
+Ergänzende Anforderungen bei linearem Vorgehen
+3. Relevante Testszenarien wie auch Testkomponenten (bspw. Funktionen, Daten, Dokumente, Performance, Schnittstellen etc.) sind inkl. der erwarteten Ergebnisse beschrieben.
+4.Die Tests wurden basierend auf den Testszenarien durchgeführt. Die Ergebnisse sind korrekt und übersichtlich dokumentiert.
+
+Ergänzende Anforderungen bei agilem Vorgehen
+3. Es existiert eine Definition of Done (DoD), die festlegt, welche Bedingungen erfüllt sein müssen, damit eine User Story oder ein Arbeitspaket als abgeschlossen gilt.
+4. Die Tests wurden basierend auf der DoD durchgeführt. Die Ergebnisse sind korrekt und übersichtlich dokumentiert.
+
+Bezeichnung
+G01: Dokumentation fachlicher und technischer Anforderungen
+Leitfrage
+Wie wurden die fachlichen und technischen Anforderungen erfasst und dokumentiert?
+Gütestufe 3
+1. Die fachlichen und technischen Anforderungen sind vollständig, verständlich und nachvollziehbar dokumentiert.
+2. Die Anforderungen sind lösungsneutral beschrieben und entsprechend ihrer Relevanz oder Priorität gekennzeichnet.
+3. Die Anforderungen sind klar formuliert, eindeutig abgegrenzt und bei Bedarf mit Beispielen oder Akzeptanzkriterien ergänzt.
+4. Die Dokumentation enthält einheitliche Begriffsdefinitionen und eine klare Struktur, sodass die Stakeholder diese problemlos verstehen.
+
+Bezeichnung
+G09: Ausarbeitung des Realisierungskonzepts
+Leitfrage
+Wie wird das Realisierungskonzept für die ausgewählte Umsetzungsvariante entwickelt?
+Gütestufe 3
+1. Das fachliche und technische Realisierungskonzept wurde schrittweise ausgearbeitet, inklusive Use Cases, Komponenten, Schichten, Abläufen, Schnittstellen, Klassen und Datenmodell.
+2. Relevante Daten, Abläufe, Systeme und Schnittstellen wurden analysiert und die Ergebnisse präzise dokumentiert.
+3. Zur Dokumentation und Darstellung des Konzepts wurden geeignete Werkzeuge und/oder Methoden (bspw. UML) verwendet.
+4. Bei Bedarf wurden Anpassungen für bestehende Applikationen entworfen und in das Konzept integriert.
+
+Bezeichnung
+G12: Testkonzepterstellung und Testfalldefinition
+Leitfrage
+Wie wurden Testkonzepte und Testfälle für die Applikationen und/oder Schnittstellen entwickelt?
+Gütestufe 3
+1. Das Testumfeld wurde vollständig beschrieben, inklusive System, Akteure, Daten, Benutzer und Berechtigungen, sodass eine aussenstehende Person dieses Umfeld reproduzieren kann.
+2. Eine Auswahl geeigneter Testarten (Unit Tests, Integrationstests, Sicherheitstests etc.) wurde getroffen und die Begründung wurde dokumentiert.
+3. Testfälle wurden klar in Bezug auf Anwendungsfälle und Anforderungen beschrieben, unter Berücksichtigung verschiedener Testperspektiven, und sind wiederholbar gestaltet (automatisiert oder manuell).
+4. Erwartete Ergebnisse für jeden Testfall wurden definiert und sind nachvollziehbar dokumentiert. Unerwartete Ergebnisse bzw. Fehler wurden souverän behoben.
+
+Bezeichnung
+Z01: Error Handling and Robustness
+Leitfrage
+How should error and exception handling be approached during the design and implementation?
+Gütestufe 3
+1. A comprehensive error handling mechanism has been implemented that appropriately captures both expected and unexpected errors without negatively impacting the user experience.
+2. Specific exception handling mechanisms are in place to ensure that errors are systematically processed. This includes the use of try-catch blocks or similar structures for handling exceptions.
+3. Error messages presented to the user must provide specific, actionable guidance on how to resolve the issue, along with a corresponding error code that is documented in the system documentation. In cases where the error cannot be identified or resolved by the user, the message shall include a generic instruction advising the user to contact a system administrator.
+4. The documentation describes the approach to error handling, including the methods used for logging and notifications. Guidelines are provided on how to respond to specific errors in order to facilitate maintenance and troubleshooting.
+
+Bezeichnung
+Z02: Code Quality and Architecture
+Leitfrage
+How well-structured and maintainable is the implementation?
+Gütestufe 3
+1. Code and folder structure follows provided coding guidelines for Dynamics 365 PCFs
+2. Reusable components or functions are implemented and used where appropriate
+3. The structure allows easy extension
+4. Standard components from Microsoft (e.g., Fluent UI) are used where applicable
+
+Bezeichnung
+Z03: Deployment and Integration
+Leitfrage
+How well can the solution be deployed and integrated into another environment?
+Gütestufe 3
+1. Solution can be imported without errors
+2. All required components are included
+3. Integration into a model-driven app is functional
+
+Bezeichnung
+Z04: Performance and Efficiency
+Leitfrage
+How efficiently does the solution perform when handling multiple duplicate records?
+Gütestufe 3
+1. Different approaches for loading and displaying data must be evaluated. Based on the findings, the approach that best aligns with performance-oriented design principles must be selected.
+2. UI remains responsive during usage
+3. Operation loading times are made transparent to the user
+
+Bezeichnung
+C02: Datenmodelle entwickeln
+Leitfrage
+Wie wird ein Datenmodell entwickelt?
+Gütestufe 3
+1. Es wurde eine geeignete Datenmodellierungsmethodik (bspw. relational, objektorientierte, ER-Modellierung) gewählt, die Wahl wurde sinnvoll begründet.
+2. In der Umsetzung des Datenmodells wurden die spezifischen Geschäftsanforderungen korrekt widerspiegelt.
+3. Die Grundsätze der Normalisierung wurden sinnvoll angewandt.
+4. Das Datenmodell ist flexibel und skalierbar.
+5. Das Datenmodell ist ausreichend dokumentiert, damit andere Entwickler das Modell verstehen und damit arbeiten können.
+
+Bezeichnung
+Z06: Usability and User Interface
+Leitfrage
+How effectively does the user interface allow users to compare records, select fields and perform actions correctly?
+Gütestufe 3
+1. The UI is clearly structured and easy to understand
+2. The comparison of records is visually clear
+3. Field selection is possible with a single click
+4. User guidance (labels, highlights, feedback) supports correct usage
+
+Bezeichnung
+A15: Instruction
+Leitfrage
+An instruction manual allows for transparency of use case and communicates configuration in other environments for different tables.
+Gütestufe 3
+1. The instruction manual clearly describes the purpose and use case of the solution
+2. The configuration steps for using the solution in other environments are fully and correctly documented
+3. The process for adapting the solution to different tables is explained in a structured and understandable way
+4. The documentation is structured, complete, and enables third parties to use and configure the solution without additional support
